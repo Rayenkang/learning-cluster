@@ -1,4 +1,4 @@
-# Instructions for inistalling Spark
+# Instructions for installing Spark
 
 the whole install and configure document is [here](http://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.3.4/bk_spark-guide/content/ch_installing-spark.html)
 
