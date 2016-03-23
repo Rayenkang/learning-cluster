@@ -15,4 +15,7 @@ you can find the simple samples [here](http://spark.apache.org/examples.html):
 
 the complete code for samples is [here](https://github.com/apache/spark/tree/master/examples/src/main/python), you can easily test that using `pyspark`.
 
+If you get permission denied when operating the hdfs, you can simply use command:
+`HADOOP_USER_NAME=hdfs`
+
 
